@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
 
 Second line in Alice in change_alice
+This is a second line of text.
